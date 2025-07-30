@@ -1,0 +1,160 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Страница — 1" id="mWviY8OP7Wuhg-CDdWoA">
+    <mxGraphModel dx="2454" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Целевая архитектура&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-14" value="Лаборатория&lt;div&gt;[Software System]&lt;/div&gt;&lt;div&gt;Медицинская лаборатория&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="100" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-220" y="265" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-12" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-15">
+          <mxGeometry width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-13" value="Пациент&lt;div&gt;[Person]&lt;/div&gt;&lt;div&gt;Пациент&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-15">
+          <mxGeometry x="12.5" y="60" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-485" y="265" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-10" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-16">
+          <mxGeometry width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-11" value="&lt;div&gt;Кассир&lt;/div&gt;&lt;div&gt;[Person]&lt;/div&gt;&lt;div&gt;Кассир&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-16">
+          <mxGeometry x="12.5" y="60" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="820" y="180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-8" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-17">
+          <mxGeometry width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-9" value="Сотрудник склада&lt;br&gt;&lt;div&gt;[Person]&lt;/div&gt;&lt;div&gt;Сотрудник склада&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-17">
+          <mxGeometry x="10.714285714285715" y="60" width="98.57142857142858" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="180" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-6" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-18">
+          <mxGeometry width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-7" value="Бухгалтер&lt;br&gt;&lt;div&gt;[Person]&lt;/div&gt;&lt;div&gt;Бухгалтер&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-18">
+          <mxGeometry x="12.5" y="60" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-50" y="180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-4" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-19">
+          <mxGeometry width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-5" value="Администратор&lt;div&gt;[Person]&lt;/div&gt;&lt;div&gt;Сотрудник ресепшн&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-19">
+          <mxGeometry x="22.5" y="60" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="180" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-2" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-20">
+          <mxGeometry width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-3" value="Доктор&lt;div&gt;[Person]&lt;/div&gt;&lt;div&gt;Специалист-медик&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tbs37-w9srPZ1z9Tl-d3-20">
+          <mxGeometry x="12.5" y="60" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.914;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tbs37-w9srPZ1z9Tl-d3-21" target="tbs37-w9srPZ1z9Tl-d3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tbs37-w9srPZ1z9Tl-d3-21" target="tbs37-w9srPZ1z9Tl-d3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-27" value="Авторизация и&amp;nbsp;&lt;div&gt;аутентификация&lt;/div&gt;&lt;div&gt;[HTTPS, TLS]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tbs37-w9srPZ1z9Tl-d3-26">
+          <mxGeometry x="0.0414" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-21" value="API Gateway&lt;div&gt;[Container]&lt;/div&gt;&lt;div&gt;Kong Gateway&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="490" width="1000" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-22" value="Keycloack&lt;div&gt;[Container]&lt;/div&gt;&lt;div&gt;Keycloack&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="490" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-23" value="БД&lt;div&gt;[Container]&lt;/div&gt;&lt;div&gt;PostgreSQL&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="790" y="640" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-28" value="KKM&lt;div&gt;[Software system]&lt;/div&gt;&lt;div&gt;Контрольно-кассовая машига&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="495" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tbs37-w9srPZ1z9Tl-d3-10" target="tbs37-w9srPZ1z9Tl-d3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-31" value="Принятие оплаты" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tbs37-w9srPZ1z9Tl-d3-30">
+          <mxGeometry x="-0.097" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="tbs37-w9srPZ1z9Tl-d3-12" target="tbs37-w9srPZ1z9Tl-d3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-34" value="Оплата за&lt;div&gt;медицинские&lt;/div&gt;&lt;div&gt;услуги&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tbs37-w9srPZ1z9Tl-d3-33">
+          <mxGeometry x="0.2242" y="2" relative="1" as="geometry">
+            <mxPoint x="21" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.06;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tbs37-w9srPZ1z9Tl-d3-4" target="tbs37-w9srPZ1z9Tl-d3-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-40" value="Регистрация файла с данными&lt;div&gt;&amp;nbsp;пациента; регистрация пациента&amp;nbsp;&lt;/div&gt;&lt;div&gt;в системе; запись пациента&amp;nbsp;&lt;/div&gt;&lt;div&gt;к специалисту&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tbs37-w9srPZ1z9Tl-d3-35">
+          <mxGeometry x="-0.4725" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tbs37-w9srPZ1z9Tl-d3-2" target="tbs37-w9srPZ1z9Tl-d3-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="450" />
+              <mxPoint x="220" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-41" value="Просмотр и редактирование&lt;div&gt;&amp;nbsp;своего журнала&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tbs37-w9srPZ1z9Tl-d3-36">
+          <mxGeometry x="-0.1786" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tbs37-w9srPZ1z9Tl-d3-6" target="tbs37-w9srPZ1z9Tl-d3-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="440" />
+              <mxPoint x="560" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-42" value="Процессинг платежей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tbs37-w9srPZ1z9Tl-d3-37">
+          <mxGeometry x="-0.0082" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="300" as="sourcePoint" />
+            <mxPoint x="880" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbs37-w9srPZ1z9Tl-d3-43" value="Учет ТМЦ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tbs37-w9srPZ1z9Tl-d3-38">
+          <mxGeometry x="0.0066" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
