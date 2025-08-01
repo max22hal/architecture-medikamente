@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
   <diagram name="Страница — 1" id="mWviY8OP7Wuhg-CDdWoA">
-    <mxGraphModel dx="1911" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4731" dy="2608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tbs37-w9srPZ1z9Tl-d3-14" value="Лаборатория&lt;div&gt;[Software System]&lt;/div&gt;&lt;div&gt;Медицинская лаборатория&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-580" y="490" width="170" height="90" as="geometry" />
+          <mxGeometry x="-570" y="490" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tbs37-w9srPZ1z9Tl-d3-15" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1890" y="790" width="100" height="120" as="geometry" />
@@ -107,10 +107,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M6X-vKIObc3y8PQWgGbR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="tbs37-w9srPZ1z9Tl-d3-21" target="M6X-vKIObc3y8PQWgGbR-4">
+        <mxCell id="M6X-vKIObc3y8PQWgGbR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="tbs37-w9srPZ1z9Tl-d3-21" target="M6X-vKIObc3y8PQWgGbR-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M6X-vKIObc3y8PQWgGbR-6" value="Согласие на обработку&amp;nbsp;&lt;div&gt;персональных данных&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M6X-vKIObc3y8PQWgGbR-5">
+        <mxCell id="M6X-vKIObc3y8PQWgGbR-6" value="Согласие на обработку&amp;nbsp;&lt;div&gt;персональных данных&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="M6X-vKIObc3y8PQWgGbR-5" vertex="1" connectable="0">
           <mxGeometry x="0.0448" y="-3" relative="1" as="geometry">
             <mxPoint x="29" as="offset" />
           </mxGeometry>
@@ -383,13 +383,13 @@
         <mxCell id="vfGwtQrS5vkAwNsBAi97-71" value="Система &quot;Медикаменте&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-285" y="460" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M6X-vKIObc3y8PQWgGbR-1" value="Data annonymizer.&amp;nbsp;&lt;div&gt;Обезличивание/псевдонимизация PII&amp;nbsp;&lt;div&gt;перед загрузкой в DWH&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[Service]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Python&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="M6X-vKIObc3y8PQWgGbR-1" value="Data annonymizer.&amp;nbsp;&lt;div&gt;Обезличивание/псевдонимизация PII&amp;nbsp;&lt;div&gt;перед загрузкой в DWH&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[Service]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Python&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-145" y="1590" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="M6X-vKIObc3y8PQWgGbR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="M6X-vKIObc3y8PQWgGbR-1" target="vfGwtQrS5vkAwNsBAi97-42">
+        <mxCell id="M6X-vKIObc3y8PQWgGbR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" parent="1" source="M6X-vKIObc3y8PQWgGbR-1" target="vfGwtQrS5vkAwNsBAi97-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M6X-vKIObc3y8PQWgGbR-4" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot; data-end=&quot;2146&quot; data-start=&quot;2099&quot;&gt;Согласие пользователя&lt;/span&gt;&lt;br&gt;&lt;div&gt;[Service]&lt;/div&gt;&lt;div&gt;Apache Airavata, Custos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="M6X-vKIObc3y8PQWgGbR-4" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot; data-end=&quot;2146&quot; data-start=&quot;2099&quot;&gt;Согласие пользователя&lt;/span&gt;&lt;br&gt;&lt;div&gt;[Service]&lt;/div&gt;&lt;div&gt;Apache Airavata, Custos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1380" y="580" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
